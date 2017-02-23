@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zbieracz danych</string>
+
+    <!-- activity_add_photo -->
+    <string name="addPhoto">Zrób zdjęcie</string>
+    <string name="deletePhoto">Usuń zdjęcie</string>
+    <string name="forward">Kontynuuj</string>
+
+    <!-- activity_add_user -->
+    <string name="name">Podaj imię:</string>
+    <string name="surname">Podaj znazwisko:</string>
+    <string name="date">Podaj datę urodzenia:</string>
+
+    <string name="inputName">imię…</string>
+    <string name="inputSurname">nazwisko…</string>
+    <string name="inputDate">data urodzenia…</string>
+
+    <!-- activity_main -->
+    <string name="addPerson">Dodaj osobę</string>
+    <string name="changeLangueage">Zmień język</string>
+
+    <!-- activity_summary -->
+    <string name="save">Zapisz</string>
+    <string name="exit">Wyjdź</string>
+
+    <!-- Messages -->
+    <string name="photoDeleted">Zdjęcie usunięte</string>
+    <string name="dataDeleted">Dane usunięte</string>
+    <string name="notEmptyField">Imię, nazwisko oraz data urodzenia nie mogą być puste!</string>
+
+    <!-- Options -->
+    <string name="delete">Usuń</string>
+    <string name="edit">Edytuj</string>
+
+    <!-- Update -->
+    <string name="update">Zaktualizuj</string>
+    <string name="setBirthDate">Podaj datę urodzenia</string>
+</resources>

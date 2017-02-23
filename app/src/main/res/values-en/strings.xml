@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Data collector</string>
+
+    <!-- activity_add_photo -->
+    <string name="addPhoto">Take a photo</string>
+    <string name="deletePhoto">Delete a photo</string>
+    <string name="forward">Continue</string>
+
+    <!-- activity_add_user -->
+    <string name="name">Enter name:</string>
+    <string name="surname">Enter surname:</string>
+    <string name="date">Enter date:</string>
+
+    <string name="inputName">Enter name...</string>
+    <string name="inputSurname">Enter surname...</string>
+    <string name="inputDate">Enter date of brithday...</string>
+
+    <!-- activity_main -->
+    <string name="addPerson">Add person</string>
+    <string name="changeLangueage">Change language</string>
+
+    <!-- activity_summary -->
+    <string name="save">Save</string>
+    <string name="exit">Exit</string>
+
+    <!-- Messages -->
+    <string name="photoDeleted">Photo deleted</string>
+    <string name="dataDeleted">Data deleted</string>
+    <string name="notEmptyField">Name, surname and date can\'t be empty.</string>
+
+    <!-- Options -->
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+
+    <!-- Update -->
+    <string name="update">Update</string>
+    <string name="setBirthDate">Enter your date of birth</string>
+</resources>
